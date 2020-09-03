@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there! 👋
+
+
+My name is Marcus Alves. I've been working as Front-End Developer since 2019.
+
+In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
+
+Would you like to find me?
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MARCUSBRUNOALVE)](https://twitter.com/MARCUSBRUNOALVE)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-alves-046a3b64/)](https://www.linkedin.com/in/marcus-alves-046a3b64/)
+
+- 🔭 I’m currently looking for a job ...
+- 🌱 I’m currently learning ...
+
+
 
 <!--
 **marcusbralves/marcusbralves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
